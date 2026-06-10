@@ -7,6 +7,7 @@ from typing import Optional
 from playwright.async_api import TimeoutError as PwTimeout
 
 from portals.base_portal import BasePortalAgent
+from config import settings
 
 
 class LinkedInAgent(BasePortalAgent):
