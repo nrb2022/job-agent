@@ -12,3 +12,4 @@ backend/config.py.bak
 *.db
 *.png
 __pycache__/
+frontend/node_modules/
