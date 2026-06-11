@@ -13,3 +13,4 @@ backend/config.py.bak
 *.png
 __pycache__/
 frontend/node_modules/
+backend/venv/
